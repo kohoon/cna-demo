@@ -18,7 +18,7 @@ class MyDocument extends Document {
                         rel="stylesheet"
                         href="https://cdnjs.cloudflare.com/ajax/libs/antd/4.9.4/antd.min.css"
                         integrity="sha512-A0t6D8yn6CdUfczMxIyQEZPjdPd5SUKfemFRLAoMRfrGV9Had9p4B4b0ViJ6EtzbUCu5w6u6FwVDFECOwHQCAA=="
-                        crossorigin="anonymous"
+                        crossOrigin="anonymous"
                     />
                 </Head>
                 <body>
